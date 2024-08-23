@@ -3,7 +3,7 @@ let project = document.querySelector("#projects");
 let contact = document.querySelector("#contact");
 
 home.addEventListener("click", () => {
-  window.location.href = "portfolio.html";
+  window.location.href = "index.html";
 });
 
 projects.addEventListener("click", () => {
